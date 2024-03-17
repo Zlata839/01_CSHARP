@@ -1,0 +1,15 @@
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.AssemblyInfoInputs.cache
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.AssemblyInfo.cs
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.csproj.CoreCompileInputs.cache
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.sourcelink.json
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\bin\Debug\net8.0\homework1.exe
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\bin\Debug\net8.0\homework1.deps.json
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\bin\Debug\net8.0\homework1.runtimeconfig.json
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\bin\Debug\net8.0\homework1.dll
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\bin\Debug\net8.0\homework1.pdb
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.dll
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\refint\homework1.dll
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.pdb
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\homework1.genruntimeconfig.cache
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminars\homework1\obj\Debug\net8.0\ref\homework1.dll
