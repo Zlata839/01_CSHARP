@@ -1,40 +1,44 @@
-﻿// Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел
+﻿using System;
 
+public class Answer {
+    
+  static int FindMax(int a, int b, int c)
+    {
+      // Введите свое решение ниже
 
-int a = 4;
-int b = 7;
-int c = 1;
+    if (a >= b && a >= c)
+    {
+        return a;
+    }
 
-int max = a;
+    if (b >= a && b >= c)
+    {
+        return b;
+    }
 
-if (b > max)
-{
-    return max;
-}
-if (c > max)
-{
-    return max;
-}
-if (a > b)
-{
-    return max;
-}
-
-Console.WriteLine(max);
-
-Вариант 2 
-
-if (num2 < num1 > num3)
-{
-    return num1;
+    else
+    {
+        return c;
+    }
 }
 
-else if (num1 < num2 > num3)
-{
-    return num2;
-}
+  // Не удаляйте и не меняйте метод Main! 
+  static public void Main(string[] args) {
+        int a, b, c;
 
- else if (num1 < num3 > num2)
- {
-    return num3;
+        if (args.Length >= 3) {
+           a = int.Parse(args[0]);
+           b = int.Parse(args[1]);
+           c = int.Parse(args[2]);
+        } else {
+           // Здесь вы можете поменять значения для отправки кода на Выполнение
+           a = 8;
+           b = 8;
+           c = 7;
+        }
+
+        // Не удаляйте строки ниже
+        int result = FindMax(a, b, c);
+        System.Console.WriteLine($"{result}");
+    }
 }
