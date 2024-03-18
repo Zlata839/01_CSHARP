@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson1\\task4\\task4.csproj",
+      "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson1\\Task4\\task4.csproj",
       "projectName": "task4",
-      "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson1\\task4\\task4.csproj",
+      "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson1\\Task4\\task4.csproj",
       "packagesPath": "C:\\Users\\ROOTS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson1\\task4\\obj\\",
+      "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson1\\Task4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROOTS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
