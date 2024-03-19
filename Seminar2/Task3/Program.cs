@@ -7,7 +7,7 @@ string Test(int first, int second)
         if (second == 0) { return "Деление на 0!"; }
 
         int res = first % second;
-        // "res" usually is an abbreviation for "result".
+         // "res" usually is an abbreviation for "result".
 
         if (res == 0)
         {
