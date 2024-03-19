@@ -7,6 +7,7 @@ string Test(int first, int second)
         if (second == 0) { return "Деление на 0!"; }
 
         int res = first % second;
+        // "res" usually is an abbreviation for "result".
 
         if (res == 0)
         {
@@ -24,7 +25,10 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(Test(num1, num2));
 
 
-if (num2 == 0) { Console.WriteLine("Деление на 0!"); }
+if (num2 == 0)
+{
+        Console.WriteLine("Деление на 0!");
+}
 else
 {
         int res = num1 % num2;
