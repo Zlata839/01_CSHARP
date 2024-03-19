@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework3\\homework3.csproj",
+      "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework3\\homework3.csproj",
       "projectName": "homework3",
-      "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework3\\homework3.csproj",
+      "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework3\\homework3.csproj",
       "packagesPath": "C:\\Users\\ROOTS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework3\\obj\\",
+      "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROOTS\\AppData\\Roaming\\NuGet\\NuGet.Config"
