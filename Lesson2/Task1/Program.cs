@@ -15,5 +15,5 @@ Console.WriteLine(arr[4]);
 int[] arr2 = new int[5] { 1, 2, 3, 4, 5 }
 
 
-int[] arr3 = { 1,2,3,4,5};
+int[] arr3 = { 1,2,3,4,5}; //упрощенный синтаксис
 // arr = [1, 2, 3, 4, 5] PYTHON
