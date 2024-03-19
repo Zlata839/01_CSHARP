@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework4\\homework4.csproj": {}
+    "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework4\\homework4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework4\\homework4.csproj": {
+    "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework4\\homework4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework4\\homework4.csproj",
+        "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework4\\homework4.csproj",
         "projectName": "homework4",
-        "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework4\\homework4.csproj",
+        "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework4\\homework4.csproj",
         "packagesPath": "C:\\Users\\ROOTS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminars\\homework4\\obj\\",
+        "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Seminar1\\homework4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROOTS\\AppData\\Roaming\\NuGet\\NuGet.Config"
