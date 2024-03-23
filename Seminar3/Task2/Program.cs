@@ -15,7 +15,7 @@ int[] RandomMas(int[] col)
 {
     for (int i = 0; i < col.Length; i++)
     {
-        col[i] = new Random().Next(-10, 11);
+        col[i] = new Random().Next(-10, 11); // задаем наш диапозон
     }
     return col;
 }
@@ -26,6 +26,6 @@ PrintMas(arr);
 
 for (int i = 0; i < arr.Length; i++)
 {
-    arr[i] *= -1;
+    arr[i] *= -1; //меняем отрицательные на положительные и наоборот
 }
 PrintMas(arr);
