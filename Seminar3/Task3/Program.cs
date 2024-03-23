@@ -1,4 +1,8 @@
-﻿int[] Append(int len)
+﻿// Найдите произведения пар чисел в одномерном массиве. 
+// Парой считаем первый и последний элемент, второй и предпоследний и т.д. 
+// Результат запишите в новый массив.
+
+int[] Append(int len)
 {
     int[] list = new int[len];
     for (int i = 0; i < len; i++)
@@ -16,8 +20,6 @@
 var len = 6;
 
 var lst = Append(len);
-
-var l = lst.Length;
 
 int index = 0;
 
