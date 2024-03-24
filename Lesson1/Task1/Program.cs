@@ -1,4 +1,7 @@
-﻿//Console.WriteLine("Hello world");
+﻿//Вывод на экран сообщений, значений переменных в C#
+//Типы переменных
+
+//Console.WriteLine("Hello world");
 
 
 int value = 100;
