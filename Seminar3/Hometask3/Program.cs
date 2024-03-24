@@ -56,9 +56,11 @@ class UserInputToCompileForTest
     public static void PrintResult(double[] array)
     {
         //Напишите свое решение здесь
-        double min = FindMin(array);
-        double max = FindMax(array);
-        Console.WriteLine(max - min);
+        // double min = FindMin(array);
+        // double max = FindMax(array);
+        // Console.WriteLine(max - min);
+        double result = FindMax(array) - FindMin(array);
+        Console.WriteLine(result);
     }
 }
 
