@@ -1,0 +1,15 @@
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.AssemblyInfoInputs.cache
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.AssemblyInfo.cs
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.csproj.CoreCompileInputs.cache
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.sourcelink.json
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\bin\Debug\net8.0\Hometask1.exe
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\bin\Debug\net8.0\Hometask1.deps.json
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\bin\Debug\net8.0\Hometask1.runtimeconfig.json
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\bin\Debug\net8.0\Hometask1.dll
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\bin\Debug\net8.0\Hometask1.pdb
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.dll
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\refint\Hometask1.dll
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.pdb
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\Hometask1.genruntimeconfig.cache
+C:\Users\ROOTS\Desktop\01_CSHARP\Seminar3\Hometask1\obj\Debug\net8.0\ref\Hometask1.dll
