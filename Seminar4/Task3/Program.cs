@@ -16,12 +16,30 @@ int[] RandomMass(int m)
 }
 
 // Функция подбора
-string FindFirstAndLast(int[] col)
+// string FindFirstAndLast(int[] col)
+// {
+//     string number = "";
+//     for (int i = 0; i < col.Length; i++)
+//     {
+//         number = number + Convert.ToString(col[i]);
+//     }
+//     return number;
+// }
+
+// Console.Write("Введите размерность массива не более 8: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] arr = RandomMass(n);
+// string str = FindFirstAndLast(arr);
+// Console.WriteLine();
+// Console.WriteLine(str);
+
+//вариант 2
+int FindFirstAndLast(int[] col)
 {
-    string number = "";
+    int number = 0;
     for (int i = 0; i < col.Length; i++)
     {
-        number = number + Convert.ToString(col[i]);
+        number = number * 10 + col[i];
     }
     return number;
 }
@@ -29,6 +47,6 @@ string FindFirstAndLast(int[] col)
 Console.Write("Введите размерность массива не более 8: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] arr = RandomMass(n);
-string str = FindFirstAndLast(arr);
+int str = FindFirstAndLast(arr);
 Console.WriteLine();
 Console.WriteLine(str);
