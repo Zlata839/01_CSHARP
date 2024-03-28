@@ -44,7 +44,7 @@ int Count(int[] col)
 }
 // посчитываем количество обращений
 
-Console.Write("Введите размерность массива ");
+Console.Write("Введите размерность массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int[] mas = RandomMass(n);

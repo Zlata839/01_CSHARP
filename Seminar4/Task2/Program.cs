@@ -19,14 +19,14 @@ int Count(int[] col)
         if (col[i] % 10 == 1 && col[i] % 7 == 0)
         {
             Console.WriteLine();
-            Console.Write($"Подпадающие числа: {col[i]}");
+            Console.Write($"Подпадающие числа: {col[i]} ");
             count++;
         }
     }
     return count;
 }
 
-Console.Write("Введите размерность массива ");
+Console.Write("Введите размерность массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int[] arr = new int[n];
