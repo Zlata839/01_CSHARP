@@ -29,7 +29,7 @@ int[,] Sq(int[,] col)
 {
     for (int i = 0; i < col.GetLength(0); i++) // GetLength обрашение к m
     {
-        for (int j = 0; j < col.GetLength(1); j++)
+        for (int j = 0; j < col.GetLength(1); j++) // GetLength обрашение к n
         {
             if (i % 2 == 0 && j % 2 == 0)
             {
