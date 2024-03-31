@@ -27,7 +27,7 @@ int[] GetInvertedArray(int[] array)
         (array[array.Length - 1 - i], array[i]) = (array[i], array[array.Length - 1 - i]);
     }
     return array;
-}
+} 
 
 Console.Write("Введите размерность массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
