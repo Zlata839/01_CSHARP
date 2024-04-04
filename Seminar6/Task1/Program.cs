@@ -30,3 +30,9 @@ Console.WriteLine(CharOfString2(chars));
 // {
 //     Console.WriteLine(st2[i]);
 // }
+
+// string st = "123 456, 789";
+// string[] arr = st.Split(" ");
+// Console.WriteLine(arr[0]);
+// Console.WriteLine(arr[1]);
+// Console.WriteLine(arr[2]);

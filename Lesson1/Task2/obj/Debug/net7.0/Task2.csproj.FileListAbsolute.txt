@@ -12,3 +12,4 @@ C:\Users\ROOTS\Desktop\01_CSHARP\Lesson1\Task2\obj\Debug\net7.0\refint\Task2.dll
 C:\Users\ROOTS\Desktop\01_CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.pdb
 C:\Users\ROOTS\Desktop\01_CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
 C:\Users\ROOTS\Desktop\01_CSHARP\Lesson1\Task2\obj\Debug\net7.0\ref\Task2.dll
+c:\Users\ROOTS\Desktop\01_CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.sourcelink.json

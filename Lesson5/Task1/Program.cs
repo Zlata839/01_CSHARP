@@ -4,6 +4,7 @@ int Fact(int n)
 {
     if (n == 1 || n == 0)
     {
+
         //отладочный вывод на ээкран
         Console.WriteLine($"Stop: {n}");
         return 1;
