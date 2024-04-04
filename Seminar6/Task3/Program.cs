@@ -1,7 +1,7 @@
 ﻿// Считать строку с консоли, состоящую из латинских букв в нижнем регистре. 
 // Выяснить, сколько среди введённых букв гласных (aouei).
 
-using System;
+
 using System.Text;
 Console.InputEncoding = Encoding.Unicode;
 Console.OutputEncoding = Encoding.Unicode;

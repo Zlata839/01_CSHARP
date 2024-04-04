@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj": {}
+    "c:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj": {
+    "c:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj",
+        "projectUniqueName": "c:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj",
+        "projectPath": "c:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\ROOTS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\obj\\",
+        "outputPath": "c:\\Users\\ROOTS\\Desktop\\01_CSHARP\\Lesson5\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROOTS\\AppData\\Roaming\\NuGet\\NuGet.Config"

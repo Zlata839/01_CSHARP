@@ -14,3 +14,12 @@ int Fact(int n)
 }
 
 Console.Write(Fact(5));
+
+// F11 шаг с заходом
+// F10 шаг с обходом
+// F5 продолжить (до следующей точки)
+
+int number1 = Convert.ToInt32(Console.ReadLine());
+int num = Convert.ToS
+
+if ()
