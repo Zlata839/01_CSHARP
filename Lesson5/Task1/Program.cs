@@ -5,7 +5,7 @@ int Fact(int n)
     if (n == 1 || n == 0)
     {
 
-        //отладочный вывод на ээкран
+        //отладочный вывод на экран
         Console.WriteLine($"Stop: {n}");
         return 1;
     }
@@ -19,7 +19,3 @@ Console.Write(Fact(5));
 // F10 шаг с обходом
 // F5 продолжить (до следующей точки)
 
-int number1 = Convert.ToInt32(Console.ReadLine());
-int num = Convert.ToS
-
-if ()
